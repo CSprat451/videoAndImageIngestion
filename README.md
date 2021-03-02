@@ -1,1 +1,1 @@
-# videoAndImageIngestion
+# Video And Image Ingestion Service
